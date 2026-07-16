@@ -1,0 +1,8 @@
+Evento que activa la automatización:
+Una nueva entrada o registro en tu sistema externo (ej. Google Sheets, Typeform o tu base de datos)
+
+Qué mensaje se envía (vía Telegram Bot): 
+¡Alerta de Soporte! Se ha registrado un nuevo ticket de soporte técnico en el sistema
+
+Qué información no debe enviarse por seguridad: 
+Claves de usuario, tokens, direcciones IP internas o datos médicos/financieros del cliente.
