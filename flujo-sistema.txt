@@ -1,0 +1,9 @@
+Clic 1: Crear:  Un ciudadano inicia y registra
+una causa en la plataforma.
+
+Clic 2: Apoyar : Otros ciudadanos entran al
+sistema y respaldan la causa abierta.
+
+Clic 3: Descargar :El sistema cuenta los 
+apoyos y genera la petición formal en un 
+archivo PDF listo para usar.
